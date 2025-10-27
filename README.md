@@ -34,7 +34,4 @@ All repositories under OSC are released under the [MIT License](LICENSE), unless
 ---
 
 ## 🧭 Contact
-Maintainer: **Aasish Kumar Sharma**  
-University of Göttingen & GWDG  
-📧 `aashish.sharma@uni-goettingen.de`  
 🌐 [opensystemscollective.org](https://opensystemscollective.org)
